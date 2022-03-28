@@ -130,7 +130,7 @@ class Carte{
     case PlayingCard.P(x, va, _)::xs => if (nbOcurrence(l, x)) == 2 then true else isPaire(xs)
   }
 
-  def isDeuxPair( l : List[PlayingCard], nb :Int ) : Boolean =
+  def isDeuxPair( l : List[PlayingCard], nb :Int ) : Boolean = ???
 
   def isBrelan( l : List[PlayingCard]) : Boolean = l match {
     case Nil => false
@@ -152,7 +152,7 @@ class Carte{
   }
 
   def isFull( l : List[PlayingCard]) : Boolean = ???
-  }
+
 
   def isCarre( l : List[PlayingCard]) : Boolean = l match {
     case Nil => false

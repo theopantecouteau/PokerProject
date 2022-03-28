@@ -1,3 +1,4 @@
-[debug] not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/home/pantecouteaut/Documents/S4/prog_fonctionnelle/Poker/"), "poker")...
-[debug] Done updating ProjectRef(uri("file:/home/pantecouteaut/Documents/S4/prog_fonctionnelle/Poker/"), "poker")
+[warn] scala3-library_3-3.1.0-sources.jar no longer exists at \home\pantecouteaut\.cache\coursier\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.1.0\scala3-library_3-3.1.0-sources.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/C:/Users/david/IdeaProjects/PokerProject/"), "pokerproject")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/david/IdeaProjects/PokerProject/"), "pokerproject")
